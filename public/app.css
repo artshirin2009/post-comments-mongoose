@@ -1,0 +1,16 @@
+.backButton {
+    position: relative;
+    top: 10px;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+#delete-form {
+    display: inline;
+}
